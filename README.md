@@ -1,5 +1,5 @@
 # **Hello!!**
-![](https://files.catbox.moe/kv4v5e.png) 
+
 
 **Reverse engineer** for the **NSA** (i downloaded dnspy and ghidra)
 ```csharp
